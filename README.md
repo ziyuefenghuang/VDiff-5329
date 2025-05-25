@@ -46,3 +46,11 @@ Parameter description:
 *   `--one_step`: (May represent one-step diffusion or another specific inference mode, depending on your implementation).
 
 ## License
+
+This project is dedicated to the public domain using the **Creative Commons CC0 1.0 Universal Public Domain Dedication**.
+
+You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.
+
+For the full legal text, please see the [LICENSE](LICENSE) file in this repository.
+You can also find more information about CC0 1.0 Universal at:
+[https://creativecommons.org/publicdomain/zero/1.0/](https://creativecommons.org/publicdomain/zero/1.0/)
